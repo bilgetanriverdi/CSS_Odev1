@@ -1,0 +1,21 @@
+#header .baslik {
+    color: #712fb3;
+    text-align: center;
+}
+
+.menu-menu{
+    text-align: center;
+}
+
+ul{
+    list-style-type: none;
+    display: inline;
+}
+
+ul li a {
+	color: white;
+    display: block;
+    background-color: #712fb3;
+	text-decoration: none;
+}
+
